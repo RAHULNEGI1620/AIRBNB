@@ -62,10 +62,10 @@ git clone https://github.com/RAHULNEGI1620/AIRBNB.git
 
 ## Usage
 
-Execute the Jupyter Notebook `Airbnb_EDA.ipynb` to run the analysis and explore the insights generated from the Airbnb dataset.
+Execute the Jupyter Notebook `Project_Airbnb_booking_analysis.ipynb` to run the analysis and explore the insights generated from the Airbnb dataset.
 
 ```bash
-jupyter notebook Airbnb_EDA.ipynb
+Project_Airbnb_booking_analysis.ipynb
 ```
 
 Follow the instructions and comments within the notebook to navigate through the analysis.
