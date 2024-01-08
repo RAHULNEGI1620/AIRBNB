@@ -21,7 +21,7 @@ Airbnb has become a popular platform for travelers to find unique and affordable
 
 ## Dataset
 
-The dataset used in this project is sourced from [Insert Dataset Source Here], containing information about Airbnb listings, including details such as price, location, property type, and more.
+The dataset used in this project is sourced from (https://github.com/RAHULNEGI1620/AIRBNB/blob/main/Airbnb%20NYC%202019.csv), containing information about Airbnb listings, including details such as price, location, property type, and more.
 
 ## Dependencies
 
@@ -53,8 +53,7 @@ Feel free to modify the versions based on your preferences or any specific compa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/airbnb-eda-python.git
-cd airbnb-eda-python
+git clone https://github.com/RAHULNEGI1620/AIRBNB.git
 ```
 
 2. Download the dataset and place it in the `data` directory.
